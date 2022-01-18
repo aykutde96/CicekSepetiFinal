@@ -1,0 +1,27 @@
+
+[
++src/test/java/Constants/LoginConstants.java,0\b\0be4db64194869c8e29e9dc5c17959ff76854ab4
+7
+pom.xml,4\4\442292b8a7efeabbe4cc176709b833b1792140ec
+P
+ src/test/java/Base/BaseTest.java,1\3\1368b1a1b5b90d159680e8a4943ad6c4ef7e70ad
+P
+ src/test/java/Base/BasePage.java,9\1\91efe36aa8fd974012c1b481aea0386a3901020a
+R
+"src/test/java/Tests/LoginTest.java,4\9\497617085dde3d0b1e3212a271ba7719039228f0
+S
+#src/test/java/Tests/FilterTest.java,d\4\d44eeed8957cea8a47ab46ac76d5e86048942278
+\
+,src/test/java/Constants/FilterConstants.java,a\4\a4900a29d0a313faa1b3809b54020ed43c617a2d
+Z
+*src/test/java/Constants/OxxoConstants.java,2\0\205480df6c61bf7080f58dc8d0aeaf01815ddffa
+Q
+!src/test/java/Pages/OxxoPage.java,2\f\2f0f0255881bd7825e7fe0383f9004d31de8ddd4
+S
+#src/test/java/Pages/FilterPage.java,c\5\c545e7a3b9f2163a7470888f73aad2bfde3877e8
+R
+"src/test/java/Pages/LoginPage.java,e\6\e627fde0ad7d9865967b84a5845a26e820727a66
+Q
+!src/test/java/Tests/OxxoTest.java,a\4\a4afb1c92bcabe777cbbf508b5919eb5983ab67f
+E
+Logs/test-project.log,d\f\dfed6adddc6ce9a341b96a27b15a8c1aa1089a39

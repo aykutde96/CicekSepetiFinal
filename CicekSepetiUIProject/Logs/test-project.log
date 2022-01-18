@@ -1,0 +1,18 @@
+2022-01-15 22:53:47 INFO  BaseTest:20 - ----- Test is starting -----
+2022-01-15 22:53:59 INFO  FilterPage:18 - https://www.mizu.com/flowers adresine gidildi.
+2022-01-15 22:54:02 INFO  FilterPage:23 - Pop-up kapatıldı.
+2022-01-15 22:54:02 INFO  FilterPage:26 - Ürünler yüksek fiyattan düşük fiyata sıralandı
+2022-01-15 22:54:05 INFO  FilterPage:32 - Ürünlerin doğru sıralandığı kontrol edildi
+2022-01-15 22:54:06 INFO  BaseTest:37 - ----- Test finished -----
+2022-01-15 22:54:06 INFO  BaseTest:20 - ----- Test is starting -----
+2022-01-15 22:54:12 INFO  LoginPage:18 - https://www.mizu.com/login adresine gidildi.
+2022-01-15 22:54:13 INFO  LoginPage:23 -  Sifre ve mail adresi girildi.
+2022-01-15 22:54:14 INFO  LoginPage:28 - Sign in butonuna tıklandı
+2022-01-15 22:54:17 INFO  LoginPage:33 - Pop-up kapatıldı.
+2022-01-15 22:54:17 INFO  LoginPage:41 - Login olduğumuz kontrol edildi.
+2022-01-15 22:54:18 INFO  BaseTest:37 - ----- Test finished -----
+2022-01-15 22:54:18 INFO  BaseTest:20 - ----- Test is starting -----
+2022-01-15 22:54:23 INFO  OxxoPage:19 - https://www.mizu.com/flowers adresine gidildi.
+2022-01-15 22:54:31 INFO  OxxoPage:25 - Location olarak mexico city secildi.
+2022-01-15 22:54:37 INFO  OxxoPage:31 - Urun sepete eklendi.
+2022-01-15 22:55:38 INFO  BaseTest:37 - ----- Test finished -----
