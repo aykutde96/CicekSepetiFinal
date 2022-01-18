@@ -32,8 +32,8 @@ Bu projede https://www.cicek.com header da bulunan search modülü ve arama sonr
 | :-------- | :------- | :-------------------------------- |
 | `Response Code` | `200` | **Status kod değerinin 200 dönmesinin kontrolü yapılmıştır.** |
 | `Duration` | `400` | **Bu isteğin maksimum 400 ms içinde gerçekleşmesini beklediğimi belirttiğim assertion** |
-| `JSON Assertion` | `Event Type` | **Gerekli**. API anahtarınız. |
-| `JSON Assertion` | `Customer Identifier` | **Gerekli**. API anahtarınız. |
+| `JSON Assertion` | `Event Type` | **Dönen json bodyde EventType değerinde bir veri var mı kontrolü yapılmıştır.** |
+| `JSON Assertion` | `Customer Identifier` | **Dönen json bodyde CustomerIdentifier değerinde bir veri var mı kontrolü yapılmıştır.** |
 
 
 #### User Menu
